@@ -36,4 +36,4 @@ git init
 - git remote add origin https://github.com/lremiz/dz-module-11.git
 - git push -u origin master
 
-на удаленном репозитории наживаем на add a README.
+на удаленном репозитории нажимаем на add a README.
